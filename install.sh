@@ -11,7 +11,7 @@ git clone https://github.com/jmattheis/gruvbox-dark-gtk /usr/share/themes/gruvbo
 echo "Cloning Gruvbox icons..."
 git clone https://github.com/jmattheis/gruvbox-dark-icons-gtk /usr/share/icons/gruvbox
 
-echo "Clonning setting script..."
+echo "Cloning a configuration script..."
 curl https://raw.githubusercontent.com/raitonoberu/archcraft-xfce-gruvbox/master/Gruvbox.sh --output /usr/share/archcraft/styles/Gruvbox.sh
 
 echo "Setting up the theme..."
